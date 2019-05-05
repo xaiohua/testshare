@@ -13,6 +13,7 @@ public class addUser extends HttpServlet {
         System.out.println(username);
     }
 //    tianjiazheyihang
+    //dier
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         this.doPost(request,response);
