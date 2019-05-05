@@ -14,7 +14,7 @@ public class addUser extends HttpServlet {
     }
 //    tianjiazheyihang
     //dier
-
+//test git pull
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         this.doPost(request,response);
     }
