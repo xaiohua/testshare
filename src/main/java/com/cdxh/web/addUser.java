@@ -12,6 +12,7 @@ public class addUser extends HttpServlet {
         String username = request.getParameter("username");
         System.out.println(username);
     }
+//    tianjiazheyihang
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         this.doPost(request,response);
